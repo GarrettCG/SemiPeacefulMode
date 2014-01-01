@@ -1,0 +1,7 @@
+name: MomMode
+main: plugin.MomMode
+version: 1
+commands:
+   class:
+      description: This is for testing purposes.
+      usage: /<class>
