@@ -1,13 +1,7 @@
-name: InventoryBinder
-main: plugin.InventoryBinder
+name: MomMode
+main: plugin.MomMode
 version: 1
 commands:
-   test:
+   class:
       description: This is for testing purposes.
-      usage: /<test>
-   speed:
-      description: This is for testing speed toggle.
-      usage: /<speed>
-   equip:
-      description: This is for testing equip.
-      usage: /<equip>   
+      usage: /<class>

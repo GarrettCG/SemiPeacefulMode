@@ -1,4 +1,4 @@
-InventoryBinder
+SemiPeacefulMode
 ================
 
-This plugin is designed to hack in a form of hotkey support by canceling item change events on the server side and utilizing the information about from the switching event. 
+Bukkit plugin that gives players on a list a new peaceful mode that allows them to play with survival players
